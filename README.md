@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عيوني أنتِ النور
+> حبك في قلبي محفور
+> بين يديكِ طاب الزمان
+> أنتِ لي كل الأمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
