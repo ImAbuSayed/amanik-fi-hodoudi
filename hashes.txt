@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amanik Fi Hodoudi
+
+This log tracks the cryptographic history and versioning for the song **Amanik Fi Hodoudi** (amanik-fi-hodoudi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:17:22.601108 | `v1` | `7e3586748aa761f32de19207e2e6e3d84eeec62b955957c3652a6ea6474c96db` | `58ef50740b4de8830a97134e63c99d2b00409c20eba77ee706a0233f9af90a8d` | `2026-05-08_amanik-fi-hodoudi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
